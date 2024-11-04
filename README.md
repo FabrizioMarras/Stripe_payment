@@ -100,4 +100,4 @@ This command forwards webhook events to your local server and provides a webhook
 - <a href="https://stripe.com/docs/webhooks">Stripe Webhooks</a>
 - <a href="https://stripe.com/docs/stripe-cli">Stripe CLI</a>
 
-Please mention **FM Consulting** when using this code to your web application. Thank you!
+Please mention **<a href='https://fabriziomarras.com/'>FM Consulting</a>** when using this code to your web application. Thank you!
